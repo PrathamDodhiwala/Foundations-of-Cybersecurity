@@ -20,18 +20,18 @@ Build strong fundamentals in cybersecurity, networking, cryptography, and set up
 - **Network:** Host-Only Adapter (isolated from LAN/internet)
 
 ## Required Screenshots (25+ minimum)
-- [ ] VirtualBox version / About dialog
-- [ ] Kali Linux desktop after install
-- [ ] Kali internet connectivity test (`ping 8.8.8.8`)
-- [ ] Metasploitable2 boot / login screen
-- [ ] Host-Only Adapter configuration
-- [ ] Successful ping between Kali and Metasploitable2 (both directions)
-- [ ] Output of each of the 20 Linux commands (Section 3 of the docx)
-- [ ] Each of the 5 OpenSSL exercises
-- [ ] Wireshark capturing traffic with a filter applied
-- [ ] Nmap scan results against Metasploitable2
-- [ ] Burp Suite intercepting a request
-- [ ] Netcat listener/client file transfer
+- [✔] VirtualBox version / About dialog
+- [✔] Kali Linux desktop after install
+- [✔] Kali internet connectivity test (`ping 8.8.8.8`)
+- [✔] Metasploitable2 boot / login screen
+- [✔] Host-Only Adapter configuration
+- [✔] Successful ping between Kali and Metasploitable2 (both directions)
+- [✔] Output of each of the 20 Linux commands (Section 3 of the docx)
+- [✔] Each of the 5 OpenSSL exercises
+- [✔] Wireshark capturing traffic with a filter applied
+- [✔] Nmap scan results against Metasploitable2
+- [✔] Burp Suite intercepting a request
+- [✔] Netcat listener/client file transfer
 
 ## How to Reproduce
 1. Install VirtualBox (free, Windows/Mac/Linux host build).
